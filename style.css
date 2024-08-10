@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Ffacebook-background&psig=AOvVaw1kEY4f4-By_6cuicONXZNc&ust=1723399928173000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjgqpuD64cDFQAAAAAdAAAAABAE);
+    background-size: cover;
+    background-position: center;
+      
+      }
+.navbar-brand 
+  {
+    font-weight: bold;
+    font-size: xx-large;
+  }
+.signup-form {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+}
+.form-header {
+    margin-bottom: 20px;
+}
+.footer {
+  padding: 20px 0;
+  text-align: center;
+}
